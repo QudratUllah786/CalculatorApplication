@@ -1,0 +1,26 @@
+.table-dark{
+    width: 400px !important;
+    
+}
+.main{
+    text-align: center !important;
+}
+/* .type{
+ width: 300px !important;
+} */
+.btno{
+    width: 220px  !important;
+    background-color: azure !important;
+    
+}
+.btn{
+    width: 50px  !important;
+    background-color: azure !important;
+}
+.heading,h1{
+    text-align: center !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.inp{
+    height: 40px !important;
+}

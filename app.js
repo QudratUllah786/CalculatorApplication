@@ -1,0 +1,16 @@
+ function getNumber(num){
+   var result= document.getElementById("result")
+//    console.log(num)  
+   result.value +=num;
+
+
+
+}
+function clearScr(){
+    var result= document.getElementById("result")
+    result.value="";
+}
+function getResult(){
+    var result= document.getElementById("result")
+    result.value=eval(result.value)
+}
